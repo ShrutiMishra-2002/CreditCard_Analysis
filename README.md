@@ -12,7 +12,7 @@ To develop a comprehensive Power BI dashboard that provides real-time insights i
    - Automatic data updates to ensure stakeholders have the latest information.
 
 2. *Key Performance Metrics*  
-   - Total credit card transactions (weekly overview).  
+   - Total credit card transactions
    - Average transaction value.  
    - Percentage of approved vs. declined transactions.  
    - Outstanding balances and payment collection rates.  
