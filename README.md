@@ -34,26 +34,8 @@ To develop a comprehensive Power BI dashboard that provides real-time insights i
 ## *Technology Stack*  
 - *Power BI*: For creating interactive visualizations and dashboard design.  
 - *Data Source*:  
-  - CSV files, databases, or APIs with credit card transactional data.  
-  - Potential integration with SQL Server or cloud storage solutions like Azure or AWS.  
-
----
-
-## *Setup Instructions*  
-1. *Install Power BI Desktop*  
-   - Download Power BI Desktop from [Microsoft Power BI](https://powerbi.microsoft.com/).  
-
-2. *Connect to Data Source*  
-   - Configure the connection to the data source (e.g., SQL Server, API).  
-
-3. *Import the PBIX File*  
-   - Load the provided .pbix file into Power BI Desktop.
-
-4. *Configure Data Refresh*  
-   - Set up scheduled refresh for real-time data updates.
-
-5. *Publish to Power BI Service*  
-   - Publish the dashboard to the Power BI Service for web access.  
+  - CSV files, database
+  - Database integration with PostgreSQL Server
 
 ---
 
